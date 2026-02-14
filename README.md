@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm  Anmol Patwa
-**A passionate Competitive Programmers || Frontend Developer || NPTEL Star**
+**A passionate Competitive Programmers || Fullstack Developer || NPTEL Star**
 
 Email Me 👉 ✉️ **patwaanmol2@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
