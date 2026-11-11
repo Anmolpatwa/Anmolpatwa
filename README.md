@@ -8,9 +8,9 @@ Email Me 👉 ✉️ **patwaanmol2@gmail.com** For Collaboration/Project or Anyt
 - 🌱 **I’m currently learning:**  Advanced LLMs, RAG, Agentic AI, System Design & AWS Cloud.
 - 🧠 **Interested in:** Generative AI, NLP, Deep Learning, Model Deployment & MLOps.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** patwaanmol2@gmail.com
 - 🤝 **Open to:** AI/ML collaborations, open-source contributions & exciting engineering opportunities.
 - ⚡ **Fun fact:**  I love teaching machines to think (well, almost!) and building things that make life smarter..
+-  📫 **How to reach me:** patwaanmol2@gmail.com
 
 
 ## 🌐 Socials:
