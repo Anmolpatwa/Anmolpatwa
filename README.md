@@ -1,14 +1,16 @@
-# 💫 Hi 👋, I'm  Anmol Patwa
-**A passionate Competitive Programmers || Fullstack Developer || NPTEL Star**
-
+# 👋 Hi, I'm Anmol Patwa
+**🤖 AI Engineer | Machine Learning Engineer | Full-Stack Developer**
+**Building intelligent systems at the intersection of Artificial Intelligence, Machine Learning, and Software Engineering.**
+**I enjoy turning complex ideas into practical AI-powered solutions, from developing intelligent backend services to building applications powered by LLMs and Computer Vision.**
 Email Me 👉 ✉️ **patwaanmol2@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Frontend Development
-- 🌱 **I’m currently learning:**  System design/aws cloud 
+- 🔭 **I’m currently working on:** AI Engineering, LLM-powered applications & Computer Vision solutions.
+- 🌱 **I’m currently learning:**  Advanced LLMs, RAG, Agentic AI, System Design & AWS Cloud.
+- 🧠 **Interested in:** Generative AI, NLP, Deep Learning, Model Deployment & MLOps.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** patwaanmol2@gmail.com
-- 😄 **Pronouns:** Anmol bhiya 😂
-- ⚡ **Fun fact:** I Love Tech and Tech Love me.
+- 🤝 **Open to:** AI/ML collaborations, open-source contributions & exciting engineering opportunities.
+- ⚡ **Fun fact:**  I love teaching machines to think (well, almost!) and building things that make life smarter..
 
 
 ## 🌐 Socials:
